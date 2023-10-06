@@ -16,7 +16,8 @@ jframe.add(painel);
 jframe.setLocationRelativeTo(null);
 jframe.setVisible(true);
 	painel.setFocusable(true);
-painel.requestFocus();
+	
+	painel.requestFocus();
 }
 
 
